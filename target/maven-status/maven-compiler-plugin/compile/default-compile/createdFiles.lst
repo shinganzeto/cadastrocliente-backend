@@ -1,0 +1,7 @@
+salame\ClienteService.class
+config\CrossOriginFilter.class
+config\ConstraintViolationExceptionMapper.class
+salame\Cliente.class
+config\ApplicationConfig.class
+clientes\salame\JAXRSConfiguration.class
+clientes\salame\resources\JavaEE8Resource.class
